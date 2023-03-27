@@ -1,0 +1,229 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_248159C3_3DEC_4EFC_41C1_5EB5BEBAB079.source = https://api.whatsapp.com/send?phone=5548999794448
+LinkBehaviour_39F5FCCC_233C_EBAA_41C0_A325EC8D1A9B.source = https://api.whatsapp.com/send?phone=5548999794448
+LinkBehaviour_39F7FCCF_233C_EBA6_41A3_957380EE7100.source = https://campestrepark.com.br/contatos/
+LinkBehaviour_24C5AAC2_3DF7_C2FC_41B7_39A5F526059C.source = https://campestrepark.com.br/contatos/
+LinkBehaviour_2A54137A_3D3C_438F_41CE_135374C85945.source = https://goo.gl/maps/usHSfQ3H2eLWKNAP6
+LinkBehaviour_39F48CCD_233C_EBAA_419B_2972ABF565F9.source = https://goo.gl/maps/usHSfQ3H2eLWKNAP6
+LinkBehaviour_39F7ACCE_233C_EBA6_41B2_D7009955CE46.source = https://www.facebook.com/campestrepark
+LinkBehaviour_339CE03F_2315_5AE6_41BF_20975052A6D7.source = https://www.facebook.com/campestrepark
+LinkBehaviour_251A29AD_3DEC_4E84_41CC_1B5645DB4D25.source = https://www.hotelmorrodosconventos.com.br/
+LinkBehaviour_39F60CCF_233C_EBA6_41BF_2266F68EAC04.source = https://www.hotelmorrodosconventos.com.br/
+LinkBehaviour_39F4DCCD_233C_EBAA_41C0_D1F1AFC57968.source = https://www.instagram.com/campestrepark/
+LinkBehaviour_24A06C2C_3DEC_4584_41A0_167A800A4D6C.source = https://www.instagram.com/campestrepark/
+
+## Media
+
+### Audio
+audiores_3884F3AE_257C_DDE6_41AB_29A1C8F0E6E3.mp3Url = media/audio_397A18BA_257D_6BE9_41A8_55D7307BA7AB_pt.mp3
+audiores_38963B71_257F_2D7A_41BA_967A4D5E71D2.mp3Url = media/audio_39E77771_257D_257A_418E_0ADB07EC6AD3_pt.mp3
+
+### Title
+panorama_0BC9BE44_003E_F2B7_4123_3BFFCC0053A0.label = Banheiro Restaurante
+panorama_0BC83F7E_003A_F153_4142_908EC0FB0F58.label = Banheiros Externos
+panorama_0BC8EA93_0036_73D1_413E_4184BC5BBC9A.label = Beira Lagoa
+album_0204BF32_14C2_8B96_4195_B129CB13A082_0.label = Beira Lagoa
+panorama_0BC3CA2C_0037_92F7_412B_04E1F753A0D0.label = Beira Lagoa 01
+panorama_0C19CF08_0036_B2BF_413D_0143C55B9150.label = Beira Lagoa 02
+panorama_0BCDA06A_0036_8F73_4147_1F725414B796.label = Beira Lagoa 03
+panorama_0BCB2456_0035_9753_4142_2FC498FC6BD0.label = Beira Lagoa 05
+panorama_0BCB37D9_0035_B151_4144_1FCACCEBD0AF.label = Beira Lagoa 06
+panorama_0BCBB225_0035_92F1_412D_8A4594266C80.label = Beira Lagoa 07
+panorama_0BCB3C1D_0035_96D1_412F_1F96392BEA90.label = Beira Lagoa 08
+panorama_0BCBF6A6_0035_F3F3_413E_B785A8062468.label = Beira Lagoa 09
+album_0204BF32_14C2_8B96_4195_B129CB13A082_1.label = Camping
+panorama_0BCBDE66_003A_7373_412F_8665DB74F7C8.label = Camping
+panorama_0BCAEB6C_003E_7177_413B_94E6DF481250.label = Camping 01
+panorama_0BC8A9B0_003A_91EF_4148_BBD9E1232AE0.label = Camping 02
+panorama_0BCB43FC_003A_B157_413B_1174635F6D10.label = Camping 03
+panorama_0BCB3E66_003A_B373_4144_D97F338B7004.label = Camping 04
+panorama_0BC9B0A2_003B_8FF3_4138_9BACD047A840.label = Camping 05
+panorama_0BC88C9C_003B_B7D7_4134_7BBB5D186EF8.label = Camping 06
+panorama_0BC8ABA6_003B_91F3_4149_087E25A49592.label = Camping 07
+panorama_0BC8AA3A_003B_F2D3_4117_59C318AB4D20.label = Camping 08
+panorama_0BC8D89C_003B_9FD7_4146_3CC8D09E31C8.label = Camping 09
+panorama_0BC8361E_003B_B2D3_4143_896F527266A2.label = Camping 10
+panorama_0BC8F255_003B_9351_412E_B7B73960DEF0.label = Camping 12
+panorama_0BC88E86_003B_93B3_4144_FAAD2F23515E.label = Camping 13
+panorama_0BC86A12_003A_72D3_413E_139C9A8E9064.label = Camping 14
+panorama_0BC875BE_003A_91D3_4105_D7D96544D300.label = Camping 15
+panorama_0BC8E17A_003A_B153_4109_F682B495D340.label = Camping 16
+panorama_0BC87D11_003A_B6D1_4128_1C82C5338B4C.label = Camping 17
+panorama_0BC8C84C_003A_9EB7_4137_66158E76B300.label = Camping 18
+panorama_0BC873F7_003A_F151_4143_0EBFB5CD807B.label = Camping 19
+panorama_0BC865FD_003A_B151_4135_445F1EE3A43E.label = Camping Beira da Lagoa
+panorama_0BC1DA14_0036_72D7_4137_DF0C253CE5D8.label = Deck 
+panorama_0BCBB99F_002B_91D1_4146_1DC466E2E950.label = Deck 01
+panorama_0BCF189C_003A_7FD7_4132_F676BFDD7158.label = Deck 01
+panorama_0BF1B6B4_002A_93D7_4134_D84AB52B6718.label = Deck 02
+panorama_0BC90488_003D_97BF_4143_327A9B012440.label = Deck 02
+panorama_0BC922B1_003D_B3D1_4148_F4D76194BD88.label = Deck 03
+panorama_0BF17373_002A_9151_4135_9371E17A44D6.label = Deck 03
+panorama_0BF1A118_002A_8EDF_4141_40ABBF9A6CC0.label = Deck 04
+panorama_0CC69B23_0035_92F1_4146_E07A2524E14B.label = Deck 05
+panorama_0BC64953_0035_B151_4132_E87513087EF0.label = Deck 06
+panorama_0BC88D36_003A_96D3_4136_CDCA48BC1470.label = Entrada 
+panorama_0BC8C22D_003A_92F1_4138_F3635669A8EE.label = Entrada 01
+panorama_0BC8A6C4_003A_B3B7_413E_7D36154F4AE8.label = Entrada 02
+panorama_0BC8CB98_003A_91DF_413F_8841787CC7F0.label = Entrada 03
+panorama_0BC8E076_003A_8F53_4131_5293C33802EC.label = Entrada 05
+panorama_0BC885AA_003A_F1F3_413C_721809629318.label = Entrada 06
+panorama_0BC8A923_003A_9EF1_4125_B4811F866A30.label = Entrada 07
+panorama_0BCB38C9_003F_BFB1_412B_8F4B2C1668C0.label = Entrada Estacionamentos
+
+panorama_0BC8C012_003D_8ED3_414A_2F3883C0F95E.label = Entrada Restaurante
+panorama_0BC85AB7_003A_93D1_4148_731D95951402.label = Estacionamento
+panorama_0BC94D29_003E_96F1_4135_E65BC48C68D0.label = Estacionamento Camping
+panorama_0BCB5AC4_003F_93B7_4120_972D81B91A10.label = Estacionamento Camping 02
+panorama_0BC9C190_003E_91AF_40FD_5BE22B8B5200.label = Estacionamento Restaurante
+panorama_0BC8D655_003F_9351_4114_DCF2833991B0.label = Estacionamento Restaurante 02
+album_0204BF32_14C2_8B96_4195_B129CB13A082_2.label = Lagoa
+panorama_0BCFDCDF_003A_9751_4146_F462214734F5.label = Mesas Beira da Lagoa
+album_0204BF32_14C2_8B96_4195_B129CB13A082.label = Photo Album Beira Lagoa
+album_0204BF32_14C2_8B96_4195_B129CB13A082_3.label = Piscina
+panorama_0BC09FFF_0037_9151_4148_3DA7FAA3375B.label = Piscina 
+panorama_0BC1B7F6_0036_B153_4138_D51760132FBC.label = Piscina 01
+panorama_0BC2268C_0036_F3B7_4127_FB9024FF3BC0.label = Piscina 02
+panorama_0BC1054A_0036_B6B3_4146_1A3D914D70CA.label = Piscina 03
+panorama_0BC1021F_0036_72D1_4131_28A72AA57924.label = Piscina 04
+panorama_0BC05BDC_0037_9157_4147_24739F070BB4.label = Piscina 05
+panorama_0BC8C0A0_003D_8FEF_4145_A51F4B5947C0.label = Piscina 06
+panorama_0BC88CC6_003D_F7B3_40FF_2114D54C1380.label = Piscina 07
+panorama_0BC9C8F4_003D_9F57_413F_54E3E2B47640.label = Piscina 08
+panorama_0BCBC133_0035_8ED1_413E_C4B582855380.label = Plataforma
+panorama_0BCB3B30_0035_92EF_4138_8813FD981740.label = Plataforma 02
+panorama_0BCBD510_0035_B6AF_4148_5757CC431BD0.label = Plataforma 03
+panorama_0BCB1F1E_0035_B2D3_412D_AB9F0AC52368.label = Plataforma 04
+panorama_0BC87949_0035_9EB1_4131_E08223FD8062.label = Plataforma 05
+panorama_0BCBF3AA_003A_71F3_411E_842EA545E4F0.label = Plataforma 06
+panorama_0C266BA5_002B_F1F1_4140_A1E9808849D2.label = Quadras
+
+panorama_0BCFF13A_003A_8ED3_4129_7577FD815BF0.label = Rampa Jet ski
+panorama_0BC8FBAB_003D_91F1_4140_CB9BD26F90F1.label = Restaurante
+panorama_0BCA77E3_003E_7171_413A_B681D32C08CE.label = Restaurante 01
+panorama_0BC843C0_003E_91AF_4142_EEDD6D09E240.label = Restaurante 02
+panorama_0BC9EFAE_003E_91F3_4143_59A0685C563E.label = Restaurante 03
+panorama_0BC87BBC_003E_B1D7_4147_71A5EE5A35D0.label = Restaurante 04
+panorama_0BC9E733_003E_92D1_4149_32B35DAEE1D6.label = Restaurante 05 
+panorama_0BC842DC_003E_F357_4147_F0811C6C9684.label = Restaurante 06
+panorama_0BC839DE_003E_9153_411C_3393CCF7E3B0.label = Restaurante 07
+panorama_0BC91636_003E_B2D3_413A_B675937F9994.label = Restaurante 08
+album_0204BF32_14C2_8B96_4195_B129CB13A082_4.label = Vista superior
+
+## Skin
+
+### Dropdown
+DropDown_0561BA16_3AA3_A1D2_41C7_FDA0B6E9EE29_mobile.label = AMBIENTES
+DropDown_0561BA16_3AA3_A1D2_41C7_FDA0B6E9EE29.label = AMBIENTES
+DropDown_320D5C82_231D_EB9E_41B8_9D830CC28FC5.label = INFORMAÇÕES
+DropDown_320D5C82_231D_EB9E_41B8_9D830CC28FC5_mobile.label = INFORMAÇÕES
+
+### Image
+Image_04C03C0C_1442_8D72_416E_36F5DAFF7A60_mobile.url = skin/Image_04C03C0C_1442_8D72_416E_36F5DAFF7A60_mobile_pt.jpg
+Image_04C03C0C_1442_8D72_416E_36F5DAFF7A60.url = skin/Image_04C03C0C_1442_8D72_416E_36F5DAFF7A60_pt.jpg
+Image_2038FB71_3952_E20C_41C1_4FABC7B694A0_mobile.url = skin/Image_2038FB71_3952_E20C_41C1_4FABC7B694A0_mobile_pt.png
+Image_2038FB71_3952_E20C_41C1_4FABC7B694A0.url = skin/Image_2038FB71_3952_E20C_41C1_4FABC7B694A0_pt.png
+
+### Multiline Text
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.7167381974248923vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:1.72vh;font-family:'Montserrat';"><B>CAMPESTRE PARK</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8597997138769653vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;">Bem-vindo ao paraíso à beira da lagoa! Nosso local encantador oferece uma experiência única para quem busca uma conexão autêntica com a natureza. Com uma vista deslumbrante para a lagoa, você pode relaxar em nossa piscina refrescante enquanto aprecia a paisagem.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8597997138769653vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;">Para aqueles que gostam de aventura, temos uma área de camping exclusiva, onde você pode acampar e se envolver em atividades emocionantes como caminhadas, passeios de barco, e observação de pássaros. Temos ainda espaço para motorhomes, para que você possa viajar com conforto enquanto aproveita tudo que temos a oferecer.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8597997138769653vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;">E quando a fome bater, nosso restaurante serve refeições deliciosas com ingredientes frescos e locais, oferecendo uma experiência gastronômica inesquecível.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8597997138769653vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;">Então, junte-se a nós e desfrute de um refúgio perfeito para relaxar e se conectar com a natureza em um ambiente descontraído e acolhedor. Venha visitar-nos na beira da lagoa e experimente tudo que temos para oferecer!</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.7167381974248923vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:1.72vh;font-family:'Montserrat';"><B>CAMPESTRE PARK</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8597997138769653vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;">Bem-vindo ao paraíso à beira da lagoa! Nosso local encantador oferece uma experiência única para quem busca uma conexão autêntica com a natureza. Com uma vista deslumbrante para a lagoa, você pode relaxar em nossa piscina refrescante enquanto aprecia a paisagem.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8597997138769653vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;">Para aqueles que gostam de aventura, temos uma área de camping exclusiva, onde você pode acampar e se envolver em atividades emocionantes como caminhadas, passeios de barco, e observação de pássaros. Temos ainda espaço para motorhomes, para que você possa viajar com conforto enquanto aproveita tudo que temos a oferecer.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8597997138769653vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;">E quando a fome bater, nosso restaurante serve refeições deliciosas com ingredientes frescos e locais, oferecendo uma experiência gastronômica inesquecível.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8597997138769653vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;">Então, junte-se a nós e desfrute de um refúgio perfeito para relaxar e se conectar com a natureza em um ambiente descontraído e acolhedor. Venha visitar-nos na beira da lagoa e experimente tudo que temos para oferecer!</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Campestre Park
+
+## VR Menu
+
+### Text
+MenuItem_0457B9DC_257D_2DA9_41AB_AA49B1DCB073.label = Banheiro Restaurante
+MenuItem_045149DC_257D_2DA9_41A2_29D7DB58A7BA.label = Banheiros Externos
+MenuItem_045009DC_257D_2DA9_41B2_40E85ACEF49C.label = Beira Lagoa
+MenuItem_0451E9DC_257D_2DA9_41B9_CB5719855CEF.label = Beira Lagoa 01
+MenuItem_045169DC_257D_2DA9_41B5_361A6A215608.label = Beira Lagoa 02
+MenuItem_0456C9DC_257D_2DA9_41B5_4BC0EB6C0060.label = Beira Lagoa 03
+MenuItem_045109DC_257D_2DA9_41A7_D1B4D84CB5E2.label = Beira Lagoa 05
+MenuItem_045669DC_257D_2DA9_41B1_1B8B32DDF9A0.label = Beira Lagoa 06
+MenuItem_045179DC_257D_2DA9_4183_F925D8F3D5D4.label = Beira Lagoa 07
+MenuItem_0456F9DC_257D_2DA9_41B6_CB03E059A4FF.label = Beira Lagoa 08
+MenuItem_045689DC_257D_2DA9_41BA_1BCFCCB8F24E.label = Beira Lagoa 09
+MenuItem_045169DC_257D_2DA9_418B_17FE43EFF667.label = Camping
+MenuItem_045069DC_257D_2DA9_419A_B9EED8B83D42.label = Camping 01
+MenuItem_0450B9DC_257D_2DA9_415B_E0404395603C.label = Camping 02
+MenuItem_0456E9DC_257D_2DA9_41AB_BB7C61928D3A.label = Camping 03
+MenuItem_045659DC_257D_2DA9_41BE_9D1C6BA42C1D.label = Camping 04
+MenuItem_045039DC_257D_2DA9_4187_E94527C5FCA9.label = Camping 05
+MenuItem_0451A9DC_257D_2DA9_419D_F48DC0F34878.label = Camping 06
+MenuItem_0456F9DC_257D_2DA9_4189_187B175B41DD.label = Camping 07
+MenuItem_045669DC_257D_2DA9_41AA_7F18015E197B.label = Camping 08
+MenuItem_045139DC_257D_2DA9_41AB_7F62C194EA9A.label = Camping 09
+MenuItem_0456B9DC_257D_2DA9_41BA_9485ACE6FF98.label = Camping 10
+MenuItem_045629DC_257D_2DA9_41B1_FBF9FB1D18B5.label = Camping 12
+MenuItem_045149DC_257D_2DA9_41A5_DC8BCE5738A0.label = Camping 13
+MenuItem_0456B9DC_257D_2DA9_41C0_2F29B3EEC48A.label = Camping 14
+MenuItem_045649DC_257D_2DA9_41BD_AC28E11674B6.label = Camping 15
+MenuItem_0450F9DC_257D_2DA9_41A9_BE45A3AC5529.label = Camping 16
+MenuItem_0451B9DC_257D_2DA9_41B8_E6587831DC5A.label = Camping 17
+MenuItem_045119DC_257D_2DA9_41A5_9E721BEB0E08.label = Camping 18
+MenuItem_045689DC_257D_2DA9_41A9_6B4047B33343.label = Camping 19
+MenuItem_045649DC_257D_2DA9_41C0_B3C06A5A9B27.label = Camping Beira da Lagoa
+MenuItem_045759DC_257D_2DA9_41A0_E1CC720B400A.label = Deck 
+MenuItem_045659DC_257D_2DA9_41BE_193AC30C9C47.label = Deck 01
+MenuItem_0456D9DC_257D_2DA9_41B9_E9286507BA35.label = Deck 01
+MenuItem_0457D9DC_257D_2DA9_41B0_AC6557DC8815.label = Deck 02
+MenuItem_045639DC_257D_2DA9_41B5_EEFF1AF4824A.label = Deck 02
+MenuItem_045119DC_257D_2DA9_41B2_31E6A373E7CF.label = Deck 03
+MenuItem_045769DC_257D_2DA9_41BB_BA1F04DECF99.label = Deck 03
+MenuItem_045679DC_257D_2DA9_41A8_3A78E84DFA01.label = Deck 04
+MenuItem_045189DC_257D_2DA9_4178_9902986CFF26.label = Deck 05
+MenuItem_045109DC_257D_2DA9_41B3_13CA1C47D61A.label = Deck 06
+MenuItem_0457C9DC_257D_2DA9_41BA_82D8FD78C31D.label = Entrada 
+MenuItem_0450D9DC_257D_2DA9_41C0_0A13686B7328.label = Entrada 01
+MenuItem_045779DC_257D_2DA9_41B4_951988B723D1.label = Entrada 02
+MenuItem_0457E9DC_257D_2DA9_416A_0577EBF0BEBE.label = Entrada 03
+MenuItem_045669DC_257D_2DA9_41AB_F5CE7260F815.label = Entrada 05
+MenuItem_0456E9DC_257D_2DA9_41C1_8D763A7573CB.label = Entrada 06
+MenuItem_045169DC_257D_2DA9_41C1_CB58F15784EB.label = Entrada 07
+MenuItem_045189DC_257D_2DA9_41BA_CCB32E65EEED.label = Entrada Estacionamentos
+
+MenuItem_0456E9DC_257D_2DA9_41C1_54884F067EBB.label = Entrada Restaurante
+MenuItem_0456D9DC_257D_2DA9_41A1_F2E374EEEE71.label = Estacionamento
+MenuItem_045149DC_257D_2DA9_41B4_30630CE415B6.label = Estacionamento Camping
+MenuItem_0456B9DC_257D_2DA9_41BA_521A6E6AE4FD.label = Estacionamento Camping 02
+MenuItem_0451D9DC_257D_2DA9_41B8_7E7D5B567C2D.label = Estacionamento Restaurante
+MenuItem_0456F9DC_257D_2DA9_41B4_C371551AA7D9.label = Estacionamento Restaurante 02
+Menu_4C0BE35D_568C_CAD6_41C5_5ED3B7FB8421.label = Media
+MenuItem_0456D9DC_257D_2DA9_41B9_EECC0D9D5B2A.label = Mesas Beira da Lagoa
+MenuItem_045179DC_257D_2DA9_41B0_6DC2D1FE8E02.label = Piscina 
+MenuItem_045699DC_257D_2DA9_41BE_33C64EE2F809.label = Piscina 01
+MenuItem_045619DC_257D_2DA9_418F_CBA690C41651.label = Piscina 02
+MenuItem_0457A9DC_257D_2DA9_41BD_F06E65B3327B.label = Piscina 03
+MenuItem_045719DC_257D_2DA9_41B9_80815D68BA8E.label = Piscina 04
+MenuItem_045099DC_257D_2DA9_41A9_704FF3A06A2C.label = Piscina 05
+MenuItem_0450C9DC_257D_2DA9_41B5_DFE12D513B78.label = Piscina 06
+MenuItem_045029DC_257D_2DA9_419A_C2B19FBC14F4.label = Piscina 07
+MenuItem_045199DC_257D_2DA9_4194_F866CADC7C23.label = Piscina 08
+MenuItem_0457F9DC_257D_2DA9_41B2_AA6B622AAB2A.label = Plataforma
+MenuItem_045789DC_257D_2DA9_4188_6F8F8DFF38D0.label = Plataforma 02
+MenuItem_045089DC_257D_2DA9_41B0_ECE6F220B72A.label = Plataforma 03
+MenuItem_0451C9DC_257D_2DA9_41A8_488C857E3A08.label = Plataforma 04
+MenuItem_045129DC_257D_2DA9_41AB_5900349CC4A2.label = Plataforma 05
+MenuItem_0456A9DC_257D_2DA9_41B9_A2C6A5E1840E.label = Plataforma 06
+MenuItem_0451A9DC_257D_2DA9_4194_4C5CAE0140D7.label = Quadras
+
+MenuItem_045159DC_257D_2DA9_4160_09F2C9F08607.label = Rampa Jet ski
+MenuItem_045659DC_257D_2DA9_41AF_26D586C673B6.label = Restaurante
+MenuItem_045129DC_257D_2DA9_41B4_A6F5417102F5.label = Restaurante 01
+MenuItem_045699DC_257D_2DA9_41B2_B09D757EF96F.label = Restaurante 02
+MenuItem_045609DC_257D_2DA9_41B6_4951D9994F17.label = Restaurante 03
+MenuItem_045129DC_257D_2DA9_4190_7FBA65B40A9C.label = Restaurante 04
+MenuItem_0456A9DC_257D_2DA9_41A7_5830E9D7F3C0.label = Restaurante 05 
+MenuItem_045629DC_257D_2DA9_41BF_E5168FBBF9DB.label = Restaurante 06
+MenuItem_045739DC_257D_2DA9_4182_2CD7B3CBA10C.label = Restaurante 07
+MenuItem_0450A9DC_257D_2DA9_4183_3DC5B06F2065.label = Restaurante 08
